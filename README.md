@@ -4,7 +4,7 @@ Análise no excel de um dashboard com os dados de reservas canceladas.
 
 ### Sumário
 
-- Análise com o objetivo de saber o motivo dos cancelamentos e tomar ações que podem ajudar a taxa a diminuir de cancelamento.
+- Análise com o objetivo de saber o motivo dos cancelamentos.
 
 ### Motivo da Análise
 
