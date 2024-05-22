@@ -38,7 +38,7 @@ Análise no excel de um dashboard com os dados de reservas canceladas.
 ![Captura de tela 2024-04-17 143326](https://github.com/chernayavdova/hotel.cancelamento/assets/86575159/308658b8-6076-42dd-9a6c-33eeba593d5c)
 
 - Podemos ver no grafico "Total de Hospedes por Tipo e Total de Cancelamentos", que a maioria das reservas foram feitas por casais, consequentemente a maioria dos cancelamentos também.
-- No gárfico "Tipo de Quarto e Cancelamentos" vemos que 88% dos hóspedes tiveram o quarto desejado, mas, apesar disso o número de cancelamentos é alto. Em comparação, apenas 5% dos hóspedes que reservaram um quarto e na hora do check-in não receberam o quarto desejado, cancelaram.
+- No gráfico "Tipo de Quarto e Cancelamentos" vemos que 88% dos hóspedes tiveram o quarto desejado, mas, apesar disso o número de cancelamentos é alto. Em comparação, apenas 5% dos hóspedes que reservaram um quarto e na hora do check-in não receberam o quarto desejado, cancelaram.
 - Hoteis na cidade são os mais procurados, com 39.270 reservas a mais do que os Resorts.
 - 42% das reservas nos Hoteis na Cidade são canceladas, embora as reservas sejam menores nos resorts, a taxa de cancelamento também é, chegando a 28%.
 - Os meses com a menos cancelamentos são: Novembro, Dezembro e Janeiro. Os com o maior número de cancelamento são: Agosto, Julho e Maio.
